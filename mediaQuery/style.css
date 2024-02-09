@@ -1,0 +1,12 @@
+.box{
+    width: 200px;
+    height: 100px;
+}
+body{
+    background: black;
+}
+
+@media  only screen and (max-width:720px){
+    .body{
+        background: purple;}
+}
